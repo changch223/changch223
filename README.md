@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chia-Wei Chang (張家瑋)
 
-Trilingual AI Product Manager & Developer passionate about building GenAI-powered products that turn narrative, data, and UX into meaningful user impact.  
-Based in Toronto | Fluent in Mandarin, Japanese, and English | 🎓 George Brown College – Applied A.I. (Graduating Dec 2025)
+- Trilingual AI Product Manager & Developer passionate about building GenAI-powered products that turn narrative, data, and UX into meaningful user impact.  
+- Based in Toronto | Fluent in Mandarin, Japanese, and English | 🎓 George Brown College – Applied A.I. (Graduating Dec 2025)
 
 ---
 
@@ -31,7 +31,7 @@ Certified in PMP®, PMI-ACP®, IBM AI PM, and DeepLearning.AI, I specialize in:
 **Sentiment Analyzer for Relationship Messages**  
 > AI detects like/dislike scores from text and images using the Gemini API  
 - SwiftUI frontend + FastAPI backend on Google Cloud Run  
-- Supports multilingual input (EN/JA/ZH)  
+- Supports multilingual input   
 - Includes structured JSON schema response and heart index animation  
 - [App Store](https://apps.apple.com/us/app/love-signal-ai-detection-app/id6744615409) | [Source Code](https://github.com/changch223/love-signal-ai)
 
