@@ -45,11 +45,5 @@ Based in Toronto | Fluent in Mandarin, Japanese, and English
 
 ---
 
-## 📫 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/chia-wei-chang-94060b1a0/)
-
----
-
 ### 🙌 Thank you for visiting!
 Feel free to explore my work or reach out for collaboration or freelance opportunities.
