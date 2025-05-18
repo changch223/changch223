@@ -1,4 +1,4 @@
-# Hi, I'm Chia-Wei Chang
+#👋Hi, I'm Chia-Wei Chang
 
 An AI Product Manager & Developer passionate about building GenAI-powered products and creating real-world impact through innovative technologies.
 Based in Toronto | Fluent in Mandarin, Japanese, and English
