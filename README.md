@@ -12,7 +12,7 @@ Based in Toronto | Fluent in Mandarin, Japanese, and English
 > Combines Knowledge Graph, RAG, and classic IR for lore-based QA  
 - LangChain + Gemini 1.5 Pro + Neo4j + Chroma  
 - Supports intent classification, query rewriting, and multi-source synthesis  
-- [Source Code](https://github.com/changch223/genshin-kg-rag-bm25-qa) 
+- [Source Code](https://github.com/changch223/Genshin-lore-qa-neo4j-rag-bm25) 
 
 ---
 
