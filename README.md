@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chia-Wei Chang (張家瑋)
+# 👋 Hi, I'm Chia-Wei Chang
 
 - Trilingual AI Product Manager & Developer passionate about building GenAI-powered products that turn narrative, data, and UX into meaningful user impact.  
 - Based in Toronto | Fluent in Mandarin, Japanese, and English | 🎓 George Brown College – Applied A.I. (Graduating Dec 2025)
