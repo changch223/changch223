@@ -16,11 +16,13 @@ Based in Toronto | Fluent in Mandarin, Japanese, and English
 
 ---
 
-### Love Signal AI  
-**Sentiment Analyzer for Relationship Messages**  
-> NLP model detects "like/dislike" strength and gives rationales  
-- BERT (Japanese finetuned sentiment model) + SwiftUI  
-- Ranks top 20 liked/disliked phrases  
+### ❤️ Love Signal AI  
+**AI-powered Sentiment Analyzer for Relationship Clarity**  
+> Detects romantic signals from messages and images using Google Gemini API  
+- 📱 SwiftUI frontend with animated love-index reports  
+- 🔧 Backend: Gemini API via [FastAPI proxy](https://github.com/changch223/gemini-api-key-proxy), deployed on Google Cloud Run  
+- 🌐 Multilingual input support (EN, ZH, JA)  
+- 🎯 Outputs include like/dislike score, reasoning, suggestions, and encouragement  
 - [App Store Link](https://apps.apple.com/us/app/love-signal-ai-detection-app/id6744615409) |[Source Code](https://github.com/changch223/love-signal-ai) | Demo in repo
 
 ---
@@ -28,7 +30,7 @@ Based in Toronto | Fluent in Mandarin, Japanese, and English
 ### IRAPPO – Stress Relief Tapping App  
 **Free stress-relief iOS app** using sound, haptic feedback, and visual interaction  
 > Designed to help users release stress through intuitive tapping and animation  
-- SwiftUI + Haptics + Audio + Rewarded Ads  
+- SwiftUI + Haptics + Audio + Ads  
 - Available in English, Chinese, and Japanese  
 - “No login, no signup” → immediate access to stress relief  
 - [App Store Link](https://apps.apple.com/us/app/stress-buster-tap-irappo/id6743828397) | [Source Code](https://github.com/changch223/IRAPPO)
