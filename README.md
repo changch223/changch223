@@ -7,7 +7,7 @@ Based in Toronto | Fluent in Mandarin, Japanese, and English
 
 ## Featured Projects
 
-### Genshin Impact Lore Hybrid QA System  
+### 🔍 Genshin Impact Lore Hybrid QA System  
 **Multimodal Question Answering System** using Neo4j + Gemini + BM25  
 > Combines Knowledge Graph, RAG, and classic IR for lore-based QA  
 - LangChain + Gemini 1.5 Pro + Neo4j + Chroma  
@@ -16,7 +16,7 @@ Based in Toronto | Fluent in Mandarin, Japanese, and English
 
 ---
 
-### Love Signal AI  
+### ❤️ Love Signal AI 
 **AI-powered Sentiment Analyzer for Relationship Clarity**  
 > Detects romantic signals from messages and images using Google Gemini API  
 - SwiftUI frontend with animated love-index reports  
@@ -27,7 +27,7 @@ Based in Toronto | Fluent in Mandarin, Japanese, and English
 
 ---
 
-### IRAPPO – Stress Relief Tapping App  
+### 💥 IRAPPO – Stress Relief Tapping App  
 **Free stress-relief iOS app** using sound, haptic feedback, and visual interaction  
 > Designed to help users release stress through intuitive tapping and animation  
 - SwiftUI + Haptics + Audio + Ads  
@@ -45,10 +45,9 @@ Based in Toronto | Fluent in Mandarin, Japanese, and English
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/chia-wei-chang-94060b1a0/)
-- [All GitHub Repos](https://github.com/changch223)
 
 ---
 
