@@ -11,7 +11,7 @@ I design and deliver AI experiences across the full product lifecycle — from p
 Certified in PMP®, PMI-ACP®, IBM AI PM, and DeepLearning.AI, I specialize in:
 
 - LLM agent design, prompt evaluation, and structured RAG systems  
-- ⚙Cross-functional delivery between AI, design, and business  
+- Cross-functional delivery between AI, design, and business  
 - Multilingual product UX for Japan, Taiwan, and global markets
 
 ---
