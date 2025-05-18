@@ -23,7 +23,7 @@ Based in Toronto | Fluent in Mandarin, Japanese, and English
 - Backend: Gemini API via [FastAPI proxy](https://github.com/changch223/gemini-api-key-proxy), deployed on Google Cloud Run  
 - Multilingual input support (EN, ZH, JA)  
 - Outputs include like/dislike score, reasoning, suggestions, and encouragement  
-- [App Store Link](https://apps.apple.com/us/app/love-signal-ai-detection-app/id6744615409) |[Source Code](https://github.com/changch223/love-signal-ai) | Demo in repo
+- [App Store Link](https://apps.apple.com/us/app/love-signal-ai-detection-app/id6744615409) | [Source Code](https://github.com/changch223/love-signal-ai) | Demo in repo
 
 ---
 
