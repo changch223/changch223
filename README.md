@@ -18,6 +18,16 @@ Certified in PMP®, PMI-ACP®, IBM AI PM, and DeepLearning.AI, I specialize in:
 
 ## 💡 Featured Projects
 
+### 🧹 Smart AI Photo Cleaner  
+**Instant Duplicate Photo Finder & Cleaner for iOS**  
+> Instantly find and delete duplicate photos — clean up your library, free up storage, and keep only your best memories! Smarter and faster, with full on-device privacy.  
+- Swift + SwiftUI + CoreML + Vision + Photos  
+- Uses image embeddings + cosine similarity for duplicate detection  
+- All scanning and processing happen **locally** — no cloud, no uploads, 100% privacy  
+- [App Store](https://apps.apple.com/us/app/smart-ai-photo-cleaner/id6749556382) | [Source Code](https://github.com/changch223/Smart-AI-Photo-Cleaner)
+
+---
+
 ### 🔍 Genshin Impact Lore Hybrid QA System  
 **Multimodal Question Answering System** using Neo4j + Gemini + BM25  
 > Combines Knowledge Graph, RAG, and classic IR for narrative-based QA  
